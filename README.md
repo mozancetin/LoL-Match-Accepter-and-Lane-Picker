@@ -39,11 +39,13 @@ League of Legends için maç kabul eden ve lane seçen bot.
 
     That's all you need to do! Open the boat and sit back. Let it work for you.
 
+# Important Notes / Önemli Notlar
+
 ***NOTE:*** Oyunun ***ön planda*** çalışması gerekiyor. Oyunun ***tamamiyle görünür*** olması lazım.
 
 ***NOTE:*** The game needs to work ***in the foreground***. The game should be ***fully*** visible.
 
-<br/>
+-----------------------------------------------------------------------------------------------------------
 
 ***NOTE:***  Bot fareyi otomatik hareket ettirecek. Korkmayın botun işlevi zaten bu.
 
