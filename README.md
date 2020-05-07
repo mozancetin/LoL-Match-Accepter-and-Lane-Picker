@@ -6,6 +6,9 @@ Match Accepter and Lane Picker Bot for League of Legends.
 
 League of Legends için maç kabul eden ve lane seçen bot.
 
+<br/>
+<br/>
+
 # Requirements / Gerekenler
 
 1. Botu kullanmak için bilgisayarınızda python 3 ve `pyautogui` ve `python-imageseach-drov0`  modülünün yüklü olması gerekir.
@@ -22,6 +25,9 @@ League of Legends için maç kabul eden ve lane seçen bot.
 3. Pip kurulu değilse kurulum videoma bakabilirsiniz: [Video](https://youtu.be/7t4xIIpV_BY).
 
     If Pip is not installed, you can check my installation video: [Video] (https://youtu.be/7t4xIIpV_BY).
+
+<br/>
+<br/>
 
 # Usage / Kullanım
 
@@ -41,6 +47,9 @@ League of Legends için maç kabul eden ve lane seçen bot.
 
     That's all you need to do! Open the boat and sit back. Let it work for you.
 
+<br/>
+<br/>
+
 # Important Notes / Önemli Notlar
 
 ***NOTE:*** Oyunun ***ön planda*** çalışması gerekiyor. Oyunun ***tamamiyle görünür*** olması lazım.
@@ -52,6 +61,9 @@ League of Legends için maç kabul eden ve lane seçen bot.
 ***NOTE:***  Bot fareyi otomatik hareket ettirecek. Korkmayın botun işlevi zaten bu.
 
 ***NOTE:***  The bot will move the mouse automatically. Don't be afraid, this is the function of the bot.
+
+<br/>
+<br/>
 
 # Preview / Ön izleme
 
