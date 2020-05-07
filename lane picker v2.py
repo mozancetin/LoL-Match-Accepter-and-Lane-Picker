@@ -21,7 +21,7 @@ if lane == 6:
 import match_accepter_v2
 
 def ChatClick():
-    chatpos = imagesearch_loop(chatimg,1)
+    chatpos = imagesearch_loop(chatimg, 0.1)
     pyautogui.click(chatpos[0]+90, chatpos[1]+20)
     
 ChatClick()
