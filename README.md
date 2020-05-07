@@ -62,6 +62,12 @@ League of Legends için maç kabul eden ve lane seçen bot.
 
 ***NOTE:***  The bot will move the mouse automatically. Don't be afraid, this is the function of the bot.
 
+-----------------------------------------------------------------------------------------------------------
+
+***NOTE:*** `image not found, waiting` vb. bir hata görürseniz endişelenmeyin. Ekranda butonu veya sohbeti aramaya devam ediyor ve **henüz** bulamadığı için hata gösteriyor. Önemsemeyin.
+
+***NOTE:*** If you see an error like `image not found, waiting` etc, don't worry. She continues to search for the button or chat on the screen and shows an error because **has not yet found** . Disregard.
+
 <br/>
 <br/>
 
