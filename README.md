@@ -60,7 +60,7 @@ League of Legends için maç kabul eden ve lane seçen bot.
 
 ***NOTE:***  Bot fareyi otomatik hareket ettirecek. Korkmayın botun işlevi zaten bu.
 
-***NOTE:***  The bot will move the mouse automatically. Don't be afraid, this is the function of the bot.
+***NOTE:***  The bot will move the mouse cursor automatically. Don't be afraid, this is the function of the bot.
 
 -----------------------------------------------------------------------------------------------------------
 
