@@ -4,16 +4,16 @@ League of Legends için maç kabul eden ve lane seçen bot.
 
 # Requirements/Gerekenler
 
-1. Botu kullanmak için bilgisayarınızda python 3 ve `pyautogui` modülünün yüklü olması gerekir.
+1. Botu kullanmak için bilgisayarınızda python 3 ve `pyautogui` ve `python-imageseach-drov0`  modülünün yüklü olması gerekir.
 
-    To use the bot, python 3 and `pyautogui` modules must be installed on your computer.
+    To use the bot, python 3 , `pyautogui` and `python-imageseach-drov0` modules must be installed on your computer.
     
 <br/>
 
 
-2. Eğer pip kuruluysa cmd ekranına `pip install pyautogui` yazarak indirebilirsiniz.
+2. Eğer pip kuruluysa cmd ekranına `pip install pyautogui` ve `pip install python-imageseach-drov0` yazarak indirebilirsiniz.
 
-    If pip is installed, you can download it by typing `pip install pyautogui` on cmd screen.  
+    If pip is installed, you can download it by typing `pip install pyautogui` and `pip install python-imageseach-drov0`  on cmd screen.  
     
 <br/>
 
@@ -21,4 +21,4 @@ League of Legends için maç kabul eden ve lane seçen bot.
 
     If Pip is not installed, you can check my installation video: [Video] (https://youtu.be/7t4xIIpV_BY).
 
-Updating... (%40)
+
