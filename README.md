@@ -45,7 +45,7 @@ League of Legends için maç kabul eden ve lane seçen bot.
     
 3. Tüm yapmanız gereken bu kadar! Botu açın ve arkanıza yaslanın. Bırakın o sizin için çalışsın.
 
-    That's all you need to do! Open the boat and sit back. Let it work for you.
+    That's all you need to do! Open the bot and sit back. Let it work for you.
 
 <br/>
 <br/>
