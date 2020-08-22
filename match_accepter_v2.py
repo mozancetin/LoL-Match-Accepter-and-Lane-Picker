@@ -2,13 +2,11 @@ import pyautogui
 from python_imagesearch.imagesearch import *
 import time
 
-
 selectscreenimg = './Resimler/champselect.png'
 iconimg = './Resimler/icon.png'
 kabulimg = './Resimler/kabulbutton.png'
 iptal1img = './Resimler/iptal1.png'
 iptal2img = './Resimler/iptal2.png'
-
 
 
 def isCancelled(): #oyun iptal oldu mu
@@ -21,17 +19,11 @@ def isCancelled(): #oyun iptal oldu mu
     else:
         return False
 
-
-
-
 def gameAccept(): #kabul butonu arama / kabul etme
     pos = imagesearch_loop(kabulimg, 1)
     pyautogui.click(pos[0], pos[1])
     print("Oyun bulundu")
     
-
-
-
 
 def isChampSelect(): #şampiyon seçim ekranına girdi mi
     slcscreen = imagesearch(selectscreenimg)
@@ -63,9 +55,3 @@ def main():
             time.sleep(1)
 
 main()
-            
-                
-        
-
-
-
