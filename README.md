@@ -24,7 +24,7 @@ League of Legends için maç kabul eden ve lane seçen bot.
 
 3. Pip kurulu değilse kurulum videoma bakabilirsiniz: [Video](https://youtu.be/7t4xIIpV_BY).
 
-    If Pip is not installed, you can check my installation video: [Video] (https://youtu.be/7t4xIIpV_BY).
+    If Pip is not installed, you can check my installation video: [Video](https://youtu.be/7t4xIIpV_BY).
 
 <br/>
 <br/>
